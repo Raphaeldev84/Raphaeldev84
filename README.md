@@ -48,5 +48,5 @@ alt="Raphaeldev84" height="30" width="40" /></a>
         width="35" height="35"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
         width="35" height="35"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"         
         width="35" height="35"/> 
