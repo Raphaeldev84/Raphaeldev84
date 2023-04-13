@@ -27,7 +27,7 @@ username=raphaeldev84&show_icons=true&locale=en&layout=compact" alt="raphaeldev8
 
 <h3 align="left">Me siga nas redes sociais:</h3>
 <p align="left">
-<a href="in/raphael-gomes-faria-35b544239](https://www.linkedin.com/in/raphael-gomes-faria-35b544239/" 
+<a href="linkedin.com/in/raphael-gomes-faria-35b544239" 
 target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
 alt="Raphaeldev84" height="30" width="40" /></a>
