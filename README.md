@@ -1,6 +1,6 @@
 ### Olá 👋! Eu sou Raphael Faria
 
- <p> ✔️ Estudante Dev Full Stack.</p>
+ <p> ✔️ Estudante Dev Full Stack - React Node.JS.</p>
  <p> ✔️ Em transição de carreira.</p>
 
 <div align="center">
