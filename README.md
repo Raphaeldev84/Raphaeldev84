@@ -22,8 +22,7 @@
 src="https://github-readme-stats.vercel.app/api/top-langs?
 username=raphaeldev84&show_icons=true&locale=en&layout=compact" alt="raphaeldev84" /></p>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaeldev84&label=Profile%20views&color=0e75b6&style=flat"
- alt="raphaeldev84" /> </p>
+
 
 <h3 align="left">Me siga nas redes sociais:</h3>
 <p align="left">
@@ -52,3 +51,7 @@ alt="Raphaeldev84" height="30" width="40" /></a>
         width="35" height="35"/>
    
  ![Snake animation](https://github.com/eujoaolima/eujoaolima/blob/output/github-contribution-grid-snake.svg)
+	
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Raphaeldev84/count.svg?"  />
+</div>
