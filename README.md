@@ -18,7 +18,7 @@
 	
 </div>
 
-<p align="left" <img align="center"
+<p align="left" <img align="left" style="display:flex" 
 src="https://github-readme-stats.vercel.app/api/top-langs?
 username=raphaeldev84&show_icons=true&locale=en&layout=compact" alt="raphaeldev84" /></p>
   
