@@ -5,14 +5,14 @@
 
 <div align="center">
   <a href="https://github.com/Raphaeldev84"> 
-  
-   <img height="150em" 
+<div align="center">
+   <img height="180em" 
  	src="https://github-readme-stats.vercel.app/api?username=Raphaeldev84&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 	
 	
 
   
-  <img height="150em" 
+  <img height="180em" 
   	src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphaeldev84&layout=compact&langs_count=7&theme=merko"/>
 	
 	
@@ -31,7 +31,7 @@ target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
 alt="Raphaeldev84" height="30" width="40" /></a>
 </p>
-
+</div>
 <h4> 💻 Linguagens</h4>
   
   <p align="left">
