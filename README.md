@@ -3,21 +3,13 @@
  <p> ✔️ Estudante Dev Full Stack - React Node.JS.</p>
  <p> ✔️ Em transição de carreira.</p>
 
-<div align="center">
-<a href="https://github.com/jessicavenancio">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicavenancio&layout=compact&langs_count=7&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicavenancio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-
 
 <div align="center">
   <a href="https://github.com/Raphaeldev84"> 
 <div align="center">
-   <img height="180em" 
- 	src="https://github-readme-stats.vercel.app/api?username=Raphaeldev84&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" 
-  	src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphaeldev84&layout=compact&langs_count=7&theme=merko"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphaeldev84&layout=compact&langs_count=7&theme=merko"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raphaeldev84&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+ 
 </div>
 
 <p align="left" <img align="left" style="display:block;" 
