@@ -26,10 +26,7 @@ username=raphaeldev84&show_icons=true&locale=en&layout=compact" alt="raphaeldev8
 
 <h3 align="left">Me siga nas redes sociais:</h3>
 <p align="left">
-<a href="linkedin.com/in/raphael-gomes-faria-35b544239" 
-target="blank"><img align="center" 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-alt="Raphaeldev84" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raphael-gomes-faria-35b544239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 </div>
 <h4> 💻 Linguagens</h4>
@@ -57,9 +54,8 @@ alt="Raphaeldev84" height="30" width="40" /></a>
 	width="35" height="35"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
          width="35" height="35"/>  
-   
- ![Snake animation](https://github.com/eujoaolima/eujoaolima/blob/output/github-contribution-grid-snake.svg)
-	
+  
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Raphaeldev84/count.svg?"  />
 </div>
