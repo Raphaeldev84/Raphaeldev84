@@ -51,7 +51,10 @@ username=raphaeldev84&show_icons=true&locale=en&layout=compact" alt="raphaeldev8
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"
 	width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
-         width="35" height="35"/>  
+        width="35" height="35"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"
+        width="35" height="35"/>  
+          
   
 
 <div align="center">
