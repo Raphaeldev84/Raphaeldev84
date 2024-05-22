@@ -1,8 +1,6 @@
 ### Olá 👋! Eu sou Raphael Faria
 
- <p> ✔️ Dev Full Stack - React Node.JS.</p>
- <p> ✔️ Scrum | Kanban</p>
- <p> ✔️ Em transição de carreira.</p>
+ <p> ✔️ Data engineer </p>
 
 
 <div align="center">
